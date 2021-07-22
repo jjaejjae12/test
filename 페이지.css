@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+
+* {margin: 0;padding: 0;box-sizing: border-box; font-size: 32px;}
+body {
+    font-family: 'Otomanopee One', sans-serif;
+    background: url("https://www.analogouscolors.com/png/90ee90.png") no-repeat;
+    background-size: cover;
+}
+
+
+.img p{
+    font-size: 500;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+a:link{color: #000;text-decoration: none;}
+a:visited{color: black;}
+a:hover{text-decoration: underline;}
+a:active{color: darkviolet;}
+
+
